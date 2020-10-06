@@ -1,0 +1,10 @@
+{
+  "name": "Elio-mockup",
+  "version": "1.0.0",
+  "dependencies": {
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "react": "^16.13.1"
+  }
+}
